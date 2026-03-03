@@ -30,8 +30,6 @@ Computer Science student at Epitech Paris, developing my full-stack skills throu
 
 ## 🧰 Tech Stack
 
-### 🧩 Main Stack
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
@@ -52,7 +50,7 @@ Computer Science student at Epitech Paris, developing my full-stack skills throu
   </p>
 </div>
 
-### 🛠️ Tools
+## 🛠️ Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
