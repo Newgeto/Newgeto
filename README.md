@@ -12,21 +12,23 @@
       <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="https://portfolio-two-lilac-13khr7frum.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000"/>
     </a>
     <a href="mailto:yanis.mdoughy@outlook.fr">
-      <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
     </a>
   </p>
 </div>
 
----
+<br/>
+<br/>
 
 ## 🙋 About Me
 
 Computer Science student at Epitech Paris, developing my full-stack skills through hands-on projects.
 
----
+<br/>
+<br/>
 
 ## 🧰 Tech Stack
 
@@ -50,25 +52,28 @@ Computer Science student at Epitech Paris, developing my full-stack skills throu
   </p>
 </div>
 
+<br/>
+<br/>
+
 ## 🛠️ Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/>
 </p>
 
 <div align="center">
   <p>
-    <b>Workflow:</b> Git, GitHub • <b>Editor:</b> VS Code
+    <b>Workflow:</b> Git, GitHub
     <br/>
     <b>Design / 3D:</b> Figma, Blender
   </p>
 </div>
 
----
+<br/>
+<br/>
 
 ## 🚀 Projects
 
@@ -77,7 +82,8 @@ Computer Science student at Epitech Paris, developing my full-stack skills throu
 - **React Portfolio** — Personal portfolio website
 - **OWASP Juice Shop** — Security practice & vulnerability testing
 
----
+<br/>
+<br/>
 
 <div align="center">
   <a href="https://github.com/Newgeto">@Newgeto</a>
