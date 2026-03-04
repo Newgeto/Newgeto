@@ -6,13 +6,13 @@
   </p>
   <p>
     <a href="https://www.linkedin.com/in/yanis-mdoughy-558a1028b/">
-      <img src="www.linkedin.com/in/yanis-mdoughy-558a1028b"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://github.com/Newgeto">
-      <img src="https://github.com/Newgeto"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="https://portfolio-two-lilac-13khr7frum.vercel.app">
-      <img src="https://portfolio-two-lilac-13krh7frum.vercel.app/"/>
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
     <a href="mailto:yanis.mdoughy@outlook.fr">
       <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
