@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif" width="120" />
-  <h2>👋 I'm Newgeto</h2>
+  <h2>Hi 👋 I'm Yanis</h2>
   <p>
     First-year Bachelor's student at Epitech Paris • Learning DevOps, Cybersecurity, Full-Stack & Data Science
   </p>
@@ -72,6 +72,12 @@ Task management web application with full CRUD operations.
 **CV Builder**  
 Dynamic resume generator.  
 <a href="https://github.com/Newgeto/CV-Builder">
+  <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+
+**Showeather**  
+Weather application built with React + Vite and the OpenWeatherMap API.  
+<a href="https://github.com/Newgeto/showeather">
   <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github&logoColor=white"/>
 </a>
 
