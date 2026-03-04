@@ -91,6 +91,6 @@ Security training project focused on web vulnerabilities.
 
 <div align="center">
 
-📬 Open to learning opportunities, collaboration and tech discussions.
+Open to learning opportunities, collaboration and tech discussions.
 
 </div>
