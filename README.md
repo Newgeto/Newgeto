@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif" width="120" />
   <h2>Salut, moi c’est Yanou</h2>
   <p>
-    Étudiant en 1re année de Bachelor à Epitech Paris • Je me forme au DevOps, à la cybersécurité, au full-stack et à la data science.
+    Étudiant en 1ère année de Bachelor à Epitech Paris, Je me forme au DevOps, à la cybersécurité, au full-stack et à la data science.
   </p>
 
   <div>
