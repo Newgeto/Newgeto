@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif" width="120" />
-  <h2>👋 I'm Newgeto</h2>
+  <h2>👋 I'm Yanou</h2>
   <p>
     First-year Bachelor's student at Epitech Paris • Learning DevOps, Cybersecurity, Full-Stack & Data Science
   </p>
