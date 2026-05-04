@@ -87,6 +87,24 @@ Projet d’entraînement en sécurité, centré sur les vulnérabilités web.
   <img src="https://img.shields.io/badge/Voir%20le%20repo-181717?style=flat&logo=github&logoColor=white" />
 </a>
 
+**Pyliza**  
+Bot Discord d'apprentissage Python avec leçons et quiz, propulsé par une IA locale (Ollama + Phi3 Mini).  
+<a href="https://github.com/Newgeto/Pyliza">
+  <img src="https://img.shields.io/badge/Voir%20le%20repo-181717?style=flat&logo=github&logoColor=white" />
+</a>
+
+**Tardis**  
+Analyse et prédiction des retards SNCF avec RandomForest et dashboard interactif Streamlit.  
+<a href="https://github.com/Newgeto/Tardis">
+  <img src="https://img.shields.io/badge/Voir%20le%20repo-181717?style=flat&logo=github&logoColor=white" />
+</a>
+
+**NextBuy**  
+Prédiction de rachat produit basée sur l’historique client, avec XGBoost et Streamlit.  
+<a href="https://github.com/Newgeto/NextBuy">
+  <img src="https://img.shields.io/badge/Voir%20le%20repo-181717?style=flat&logo=github&logoColor=white" />
+</a>
+
 ---
 
 <div align="center">
